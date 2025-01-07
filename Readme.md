@@ -82,7 +82,7 @@ http://localhost:5173
 
 Here are the screenshots captured during the project finalization process:
 
-![Screenshot 1](./images/Screenshot_from_2025-01-07_16-30-49.png)
+![Screenshot 1](X_scrapper/images/Screenshot_from_2025-01-07_16-30-49.png)
 
 ![Screenshot 2](./images/Screenshot_from_2025-01-07_16-30-56.png)
 
