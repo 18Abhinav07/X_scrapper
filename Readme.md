@@ -53,8 +53,8 @@ PROXY_PORT = "your_proxy_port"
 TWITTER_USERNAME = "your_twitter_username"
 TWITTER_PASSWORD = "your_twitter_password"
 TWITTER_EMAIL = "your_twitter_email"
-MONGODB_URI = "your_mongodb_connection_string"
 ```
+The Mongo URI needs to be entered in the mongodb_service.py file
 
 ## Running the Application
 
