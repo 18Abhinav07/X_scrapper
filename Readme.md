@@ -79,26 +79,7 @@ http://localhost:5173
 ```
 
 # Project Finalization Screenshots
-
-Here are the screenshots captured during the project finalization process:
-
-![Screenshot 1](X_scrapper/images/Screenshot_from_2025-01-07_16-30-49.png)
-
-![Screenshot 2](./images/Screenshot_from_2025-01-07_16-30-56.png)
-
-![Screenshot 3](./images/Screenshot_from_2025-01-07_17-38-24.png)
-
-![Screenshot 4](./images/Screenshot_from_2025-01-07_17-38-29.png)
-
-![Screenshot 5](./images/Screenshot_from_2025-01-07_17-38-41.png)
-
-![Screenshot 6](./images/Screenshot_from_2025-01-07_17-39-06.png)
-
-![Screenshot 7](./images/Screenshot_from_2025-01-07_17-39-47.png)
-
-![Screenshot 8](./images/Screenshot_from_2025-01-07_17-40-43.png)
-
-![Screenshot 9](./images/Screenshot_from_2025-01-07_17-41-02.png)
+In the images folder.
 
 
 ## Usage
