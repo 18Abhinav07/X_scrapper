@@ -78,6 +78,46 @@ npm run dev
 http://localhost:5173
 ```
 
+# Project Finalization Screenshots
+
+Here are the screenshots captured during the project finalization process:
+
+### Screenshot 1
+
+![Screenshot from 2025-01-07 16-30-49](images/Screenshot_from_2025-01-07_16-30-49.png)
+
+### Screenshot 2
+
+![Screenshot from 2025-01-07 16-30-56](images/Screenshot_from_2025-01-07_16-30-56.png)
+
+### Screenshot 3
+
+![Screenshot from 2025-01-07 17-38-24](images/Screenshot_from_2025-01-07_17-38-24.png)
+
+### Screenshot 4
+
+![Screenshot from 2025-01-07 17-38-29](images/Screenshot_from_2025-01-07_17-38-29.png)
+
+### Screenshot 5
+
+![Screenshot from 2025-01-07 17-38-41](images/Screenshot_from_2025-01-07_17-38-41.png)
+
+### Screenshot 6
+
+![Screenshot from 2025-01-07 17-39-06](images/Screenshot_from_2025-01-07_17-39-06.png)
+
+### Screenshot 7
+
+![Screenshot from 2025-01-07 17-39-47](images/Screenshot_from_2025-01-07_17-39-47.png)
+
+### Screenshot 8
+
+![Screenshot from 2025-01-07 17-40-43](images/Screenshot_from_2025-01-07_17-40-43.png)
+
+### Screenshot 9
+
+![Screenshot from 2025-01-07 17-41-02](images/Screenshot_from_2025-01-07_17-41-02.png)
+
 ## Usage
 
 1. Open the homepage in your web browser
